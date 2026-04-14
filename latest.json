@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "notes": "Add auto-complete for pending orders and UI refinements.",
+  "pub_date": "2026-04-15T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOE9aS2VGVERoUitHa1FZK1ZaaFVsOWdjcEQya0thN3JsMzNVVU5WNmhwcnhJc0lrL1pQZXJ5RGhqRi8zcFRrendrbWNzdEg1aHg1d3o4U1JsLzFjVWJFWFdFLzlCZ1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTk5NDE1CWZpbGU6UmVzdmkgUE9TXzEuMC4xX3g2NC1zZXR1cC5leGUKdHFzSlIvVFJuVDRKYzRyODNHMU9sRHVZSU95cVlMcFE2cjBicG1EZ2xOQmo0VUZXc2o5U0Q0bWFhdVRLVU5xdkpCcnJsUURYY2p4NWdDeFUyNUpGRHc9PQo=",
+      "url": "https://github.com/kvertyhq/resvi-packages/releases/download/1.0.1/Resvi.POS_1.0.1_x64-setup.exe"
+    }
+  }
+}
