@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
-  "notes": "printing of the receipt in the orders",
-  "pub_date": "2026-04-16T00:00:00Z",
+  "version": "1.0.4",
+  "notes": "dashboard analytics, bluetooth based printing support, increase pop up modal size, show walkin order menu first view",
+  "pub_date": "2026-04-18T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOE9aS2VGVERoUjlHTE9hdEtDODhhd0puREFhRXQwMlBQa3FYUW9RYTZLL0ZmYlc1QVhmVzNJVlJzeGVOaDhnMTN2aWlIcTVtdVRIc25SUUlFMHhOemFEV09hNEg3WFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjcyMzcxCWZpbGU6UmVzdmkgUE9TXzEuMC4yX3g2NC1zZXR1cC5leGUKK1JKay9MVmZzbTUyUXBnOVBTdEF4NUxvUG1PK2t6dkJtMGlBRzdSVXF4QmJQYldWY0thcmpYWlllcWNXQTZzZEFiV3h4MVB1UU1Ld2oxaC9ud2JzQkE9PQo=",
-      "url": "https://github.com/kvertyhq/resvi-packages/releases/download/1.0.2/Resvi.POS_1.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOE9aS2VGVERoUnkrWWwwYjkrTjdWcnVuSitqbzRjNTBydTI4WW9vWE5oZ2NucDZKOW9KejhZU3RobENudVZTMFppWjV5WlMwVEhZTUdFUW1DYWVLOVBrWDJwU2hpWUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTMyMzcxCWZpbGU6UmVzdmkgUE9TXzEuMC40X3g2NC1zZXR1cC5leGUKQjhhY3A5eE1qYVNrajFpZGc3SVh6aGwzdzB4eURLK3NTMUFsNlJ4UThwd1RjU20wa3ZLMFZJL3R2WVlpRUpTdG1qaFZDekp2UmVmUitpRE56b2JpQkE9PQo=",
+      "url": "https://github.com/kvertyhq/resvi-packages/releases/download/1.0.4/Resvi.POS_1.0.4_x64-setup.exe"
     }
   }
 }
