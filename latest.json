@@ -1,11 +1,11 @@
 {
-  "version": "1.0.5",
-  "notes": "improve realtime listener, call modal",
-  "pub_date": "2026-04-18T00:00:00Z",
+  "version": "1.0.6",
+  "notes": "receipt printing improvement, pricing structure fixed",
+  "pub_date": "2026-04-25T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOE9aS2VGVERoUjc3YnhzMGMxOExKS1p5MWVRaURCM0VxdmlPd0xFZVJDWWs3SkFLNHc3ZGRrQ1BlWkp2UDhaOXVmakZHVUcyOENDUzNiVzZsNElIVXVYVEdES1FJSEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTc3MjgxCWZpbGU6UmVzdmkgUE9TXzEuMC41X3g2NC1zZXR1cC5leGUKTmNLZ25SR2UwdHNJdS9EQ1VjZGo5L3AzRitpUXdRbklWd3hpR3Vxbm5WSStIdzFzWDJoSnVUNDdEU2ZNMWEyZUpFbXMxaHVoV09UMFdWeHJEOStzRGc9PQo=",
-      "url": "https://github.com/kvertyhq/resvi-packages/releases/download/1.0.5/Resvi.POS_1.0.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOE9aS2VGVERoUjRQbUJEbVE0a1BOYUg1R2l3SlRiY0hSOTV0ZGZJMkhycjRON2Vnb0RxZENxRWJOeURtT0NrSmVhekJoMUNpOGVtd3UxdjMyT04xTU0vY1dlMmcreFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTM2MzI0CWZpbGU6UmVzdmkgUE9TXzEuMC42X3g2NC1zZXR1cC5leGUKODc0Zkl1N2FHUXcxWlNqRklYdXVmUEhNbEtYazB5ZU05dmhlZVZoSnN1aDJyczNMOUcrQWxNZU9UbFlIRWZ3QnFlVWg0NE9TWU1MNnZKTmlJL21wQWc9PQo="
+      "url": "https://github.com/kvertyhq/resvi-packages/releases/download/1.0.6/Resvi.POS_1.0.6_x64-setup.exe"
     }
   }
 }
