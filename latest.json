@@ -1,11 +1,11 @@
 {
-  "version": "1.0.7",
-  "notes": "replace existing modal on new call, remove eye icon",
-  "pub_date": "2026-04-25T00:00:00Z",
+  "version": "1.0.8",
+  "notes": "mark orders in or out of stock",
+  "pub_date": "2026-05-02T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOE9aS2VGVERoUnhTZlhLbUExZzZ1TlBrU0Q4eUp5MS9URlJWR2FPVnZvbS8zeGdPeHdINnZtcFZoM3hZdzdIWm03dkRUN3k4WmFrM0l1UXJIUFVTR21xUWFHSE5nZndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTQxMzMxCWZpbGU6UmVzdmkgUE9TXzEuMC43X3g2NC1zZXR1cC5leGUKbG11a2VLMmxGSld2TkdjYzZrNXA5SU1uVmx3SGJVUGF4NjhtMTlwZCs5OUtETWtTQVRPMnJKcHZsMEg0eUgvcHE5LzEvUVFpNW1xRDJFUVpZcTUwQUE9PQo="
-      "url": "https://github.com/kvertyhq/resvi-packages/releases/download/1.0.7/Resvi.POS_1.0.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOE9aS2VGVERoUi9udGpheDFPa0FMeXFDUUxFMDg3Q2VkT214eVNPaXRXNTBFUFlNamdCT1VNV0xkNVRQcU85bnRLSkNEdWlabjR5U2FHbkUzY2FBQW9qU2NCR1kxOUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NzQ1MDQwCWZpbGU6UmVzdmkgUE9TXzEuMC44X3g2NC1zZXR1cC5leGUKcmRXVUhsRVJ0T2xBOFRDVmlTUXcxS1dOd3V5V3JXR1N5Zzg1c09yNlpOOHVUbUFrQkRmZTFXMmpCWjhPYzhtWUpIbE9yUHdGdTlJcHFhRjgrNXNQRFE9PQo=",
+      "url": "https://github.com/kvertyhq/resvi-packages/releases/download/1.0.8/Resvi.POS_1.0.8_x64-setup.exe"
     }
   }
 }
