@@ -1,11 +1,11 @@
 {
-  "version": "1.0.8",
-  "notes": "mark orders in or out of stock",
-  "pub_date": "2026-05-02T00:00:00Z",
+  "version": "1.0.9",
+  "notes": "Standardization of the receipt printing system, improved data persistence for phone orders, and category-based item grouping across all platforms.",
+  "pub_date": "2026-05-12T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOE9aS2VGVERoUi9udGpheDFPa0FMeXFDUUxFMDg3Q2VkT214eVNPaXRXNTBFUFlNamdCT1VNV0xkNVRQcU85bnRLSkNEdWlabjR5U2FHbkUzY2FBQW9qU2NCR1kxOUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NzQ1MDQwCWZpbGU6UmVzdmkgUE9TXzEuMC44X3g2NC1zZXR1cC5leGUKcmRXVUhsRVJ0T2xBOFRDVmlTUXcxS1dOd3V5V3JXR1N5Zzg1c09yNlpOOHVUbUFrQkRmZTFXMmpCWjhPYzhtWUpIbE9yUHdGdTlJcHFhRjgrNXNQRFE9PQo=",
-      "url": "https://github.com/kvertyhq/resvi-packages/releases/download/1.0.8/Resvi.POS_1.0.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOE9aS2VGVERoUjlDN0d2ZXVtYWlVK2dJeHlOY1pRNEltUytsa081ZGJsSTY0WFBKbTZaa1FTbHUrakhzSXoxYkpxQWlnaU00RTNWM1k3ajErQ3ZyMFRSMnByTXRHeHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTgzNDU0CWZpbGU6UmVzdmkgUE9TXzEuMC45X3g2NC1zZXR1cC5leGUKNkUrb3lmVXV6eUpkZ2FTTjErSUoyMXB2ZjJyblZEenpBdjloWFRJU2ZGYktRTWV2RTlMT3dHcUh4dDFYbFQ2aDBTL0VCQkRZZW9zYldtZTNjZERMREE9PQo=",
+      "url": "https://github.com/kvertyhq/resvi-packages/releases/download/1.0.9/Resvi.POS_1.0.9_x64-setup.exe"
     }
   }
 }
