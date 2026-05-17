@@ -1,11 +1,11 @@
 {
-  "version": "1.0.9",
-  "notes": "Standardization of the receipt printing system, improved data persistence for phone orders, and category-based item grouping across all platforms.",
-  "pub_date": "2026-05-12T00:00:00Z",
+  "version": "1.0.10",
+  "notes": "Stripe Connect, Auto print online orders in POS",
+  "pub_date": "2026-05-18T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOE9aS2VGVERoUjlDN0d2ZXVtYWlVK2dJeHlOY1pRNEltUytsa081ZGJsSTY0WFBKbTZaa1FTbHUrakhzSXoxYkpxQWlnaU00RTNWM1k3ajErQ3ZyMFRSMnByTXRHeHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTgzNDU0CWZpbGU6UmVzdmkgUE9TXzEuMC45X3g2NC1zZXR1cC5leGUKNkUrb3lmVXV6eUpkZ2FTTjErSUoyMXB2ZjJyblZEenpBdjloWFRJU2ZGYktRTWV2RTlMT3dHcUh4dDFYbFQ2aDBTL0VCQkRZZW9zYldtZTNjZERMREE9PQo=",
-      "url": "https://github.com/kvertyhq/resvi-packages/releases/download/1.0.9/Resvi.POS_1.0.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOE9aS2VGVERoUjdISFpSTVl5TVhrSjYxK3lvaFVIZjdYd0RvWG5adHdscTludXFPR2NJbHNTTjFmbENzbW5MTlBZNGhIZHVaYkhtNzNwRFFyM0ovT014R01DYXRmd3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MDQ5MTE1CWZpbGU6UmVzdmkgUE9TXzEuMC4xMF94NjQtc2V0dXAuZXhlCjJPOGcwWHA0UkJnU1VybGlpQmlySVNUNytBR0dpY0pQb0I3V0I5K3BWMHQvWGJJenYrVGViOVV0OUdTdzFWOEhMaHIxQW40L2lXa1pUSFJkWTBaRUN3PT0K",
+      "url": "https://github.com/kvertyhq/resvi-packages/releases/download/1.0.10/Resvi.POS_1.0.10_x64-setup.exe"
     }
   }
 }
