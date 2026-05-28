@@ -1,11 +1,11 @@
 {
-  "version": "1.0.10",
-  "notes": "Stripe Connect, Auto print online orders in POS",
+  "version": "1.0.11",
+  "notes": "Modifiers inside main modifiers with limit of toppings, Update Stripe connect",
   "pub_date": "2026-05-18T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOE9aS2VGVERoUjMzYnRVNFdoRDYrRzg1QWlyM2Z5RUpJTUw4TDBJQzduT3VMVmdkcndzMGJnck5LODd0a3pMZksvcEhjVVNRTEZKQjM1MzNOMUZCVzd2NmplSWg1M3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MDc0NzQ3CWZpbGU6UmVzdmkgUE9TXzEuMC4xMF94NjQtc2V0dXAuZXhlCmpleFdQSzdNVzBVeDVNdS9nSkdabXl1RGtaWjhRcmx6ZmZ2d3BIZ2drVENVV1VWTUJ2eWE4aU9ZUUJIaWxRRnMvQW05OGxzNUswcDZhM0tBOC9HTURnPT0K",
-      "url": "https://github.com/kvertyhq/resvi-packages/releases/download/1.0.10/Resvi.POS_1.0.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOE9aS2VGVERoUjdCa1BMNEllaElrYU1SM21QNEhZeUdhaTNYeERXRWpDTG9IQlVNUkdzdEhUUEN6S0JCNlRVc2tJeDhBaU9oYnhma3ZPQStoa2VhZ3V4eEYzamY3aXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTk1MjcyCWZpbGU6UmVzdmkgUE9TXzEuMC4xMV94NjQtc2V0dXAuZXhlCmZ3WWw1bW9JNmtwdTNDSDF2alJWQkRIRGViZ3Rnd3c2dU9wNzIyV2hnbmNxVWUxd2c4akZYMlhXblFBTWttMFNSS0xtVzljb2VJVWRzckl3SE9HZUFnPT0K",
+      "url": "https://github.com/kvertyhq/resvi-packages/releases/download/1.0.11/Resvi.POS_1.0.11_x64-setup.exe"
     }
   }
 }
