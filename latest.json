@@ -1,11 +1,11 @@
 {
-  "version": "1.0.11",
-  "notes": "Modifiers inside main modifiers with limit of toppings, Update Stripe connect",
-  "pub_date": "2026-05-28T00:00:00Z",
+  "version": "1.0.12",
+  "notes": "auto print fix in all devices, improve analytics api results, fix half half pizza flow",
+  "pub_date": "2026-06-07T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOE9aS2VGVERoUnlUU2RWNkQ4QVcyRHd5bW5JenA3Zk41Y3B5TldZZmhpTDJiYzVzU29YWUpwbU9KMkVhTzJCMmJldUFaS0lmd05rVFh6eTFEUjE1THZOTnJFMFJqQkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDIxMDk1CWZpbGU6UmVzdmkgUE9TXzEuMC4xMV94NjQtc2V0dXAuZXhlCm5UQTJmOVdMV0lLTUZobjQ1T1IwWk9rbU1YaDFaVWExSVVrQVhZUUFmYXpiUFJuVHZvcW53RkU2amlwRS84UzlRSmV3VjlrZ1lyNHhNTXFWdHhsSUFBPT0K",
-      "url": "https://github.com/kvertyhq/resvi-packages/releases/download/1.0.11/Resvi.POS_1.0.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOE9aS2VGVERoUjNrMGpBc1lGY3VwNk92MTI4TGcyZVVGRGNMbzkxY1NVNlE5RkNqMzVybHlQK1hoR2JOM2M0R0pFL25UbE90ZGRzMFdXYXJwTjJFZjNCUTRuM0Y3aVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODIwNzIyCWZpbGU6UmVzdmkgUE9TXzEuMC4xMl94NjQtc2V0dXAuZXhlCmIwRU5ib2FGcWVEVkJDZW1pU0l4TG9SeWljTnhjU2lDMTh6cU5zeWNneU1JeUJraE9GNFVpRUtrWm13UnN6WlgzSEpDc2RsY3l6TXZhdWtMOE1QL0RBPT0K",
+      "url": "https://github.com/kvertyhq/resvi-packages/releases/download/1.0.12/Resvi.POS_1.0.12_x64-setup.exe"
     }
   }
 }
